@@ -1,0 +1,15 @@
+{
+  "name": "dio-logica-desafio-calculadora-partidas-rankeada",
+  "version": "1.0.0",
+  "description": "- Variáveis\r - Operadores\r - Laços de repetição\r - Estruturas de decisões\r - Funções",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
